@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>thumbnailName</key>
+		<string>avocado-tost</string>
+		<key>userRating</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>Тост з авокадо и фетою</string>
+		<key>recipe</key>
+		<string>підсушений хліб з пророщеної пшениці, 
+оливкове або вершкове масло, 
+фета, 
+авокадо 
+огірок</string>
+		<key>title</key>
+		<string>Авокадо тост</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>thumbnailName</key>
+		<string>carrot-soup</string>
+		<key>userRating</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>З кокосовим молоком, кукурудзою та томатами</string>
+		<key>recipe</key>
+		<string>6 моркв среднього розміру
+2 великих томата
+1 невелика цибуля
+2 зубчика чеснока
+200 мл кокосового молока
+1 ст. ложка кокосової олії (або гхі)
+1 ч. ложка куркуми
+сіль &amp; перець
+
+«Мариновані» зерна кукурудзи:
+
+1 початок кукурудзи
+сік 1 лайма
+віточка базилику
+1 ст. ложка оливкової олії
+сіль &amp; перець</string>
+		<key>title</key>
+		<string>Морквяний крем-суп</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>thumbnailName</key>
+		<string>chickpie-salad</string>
+		<key>userRating</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>З червоним перцем та кукурудзою</string>
+		<key>recipe</key>
+		<string>• кукрудзяні зерна, свіжі або консервовані
+• нут, приготований або консервований 
+• червоний болгарський перець 
+• томати
+• оливкова олія
+• трохи соку лайма
+• сіль та перець</string>
+		<key>title</key>
+		<string>Нутовий салат</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>thumbnailName</key>
+		<string>choco-cookies</string>
+		<key>userRating</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>З гречаного борошна</string>
+		<key>recipe</key>
+		<string>1/2 стакана гречаного борошна
+1/2 стакани подрібнених в борошно горіхів (мигдаль, фундук)
+3—5 ст. ложки гхі, кокосової олії або вершкового масла
+3 ст. ложки какао
+1 яйце
+5 ст. ложек сиропа топінамбура або іншого натурального підсолоджувача
+1 ч. ложка кориці
+2 дрібки соли
+4 частинки шоколаду з 70% какао
+1 ложка меду</string>
+		<key>title</key>
+		<string>Шоколадне печиво</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>thumbnailName</key>
+		<string>healthy-bars</string>
+		<key>userRating</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>З фініками та медом</string>
+		<key>recipe</key>
+		<string>400 г вівсяних пластівців
+20 королевських фініків (400 г)
+300 мл води
+200 г родзинок
+100 г насіння соняшника
+3 ч. ложки кокосової олії
+4 ч. ложки насіння чіа и 16 ч.л. води
+2 ч. ложки кориці</string>
+		<key>title</key>
+		<string>Вівсяні батончики</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>thumbnailName</key>
+		<string>spinach-pie</string>
+		<key>userRating</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>З фетою та зеленню</string>
+		<key>recipe</key>
+		<string>Для основи:
+
+1 стакан кукурудзяного борошна
+1/2 стакана вівсяного борошна
+1 яйце
+1/2 ч. ложки солі
+3 ст. ложки кокосової олії 
+3 ст. ложки холодної води
+Для начинки:
+
+3 яйця
+150 г фети або іншого молодого сиру
+2 ст. ложки оливкової олії
+2 невеликих цибулини
+1 зубчик часнику
+150 г свіжого або 1/2 пачки замороженого шпинату
+сіль &amp; перець</string>
+		<key>title</key>
+		<string>Кіш зі шпинатом</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>thumbnailName</key>
+		<string>tomato-salad</string>
+		<key>userRating</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>З жовтими томатами та молодим сиром</string>
+		<key>recipe</key>
+		<string>1-2 рожевих томати
+3 жовтих томати
+1/3 червоної репчатої цибулі
+зелена цибуля
+ложка оливкової олії
+100 г бриндзи або фети</string>
+		<key>title</key>
+		<string>Літній салат</string>
+	</dict>
+</array>
+</plist>

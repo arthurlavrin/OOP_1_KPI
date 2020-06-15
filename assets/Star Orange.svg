@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Star 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1" transform="translate(-1264.000000, -1247.000000)" stroke="#ED7B5A">
+            <g id="drinks" transform="translate(610.000000, 1065.000000)">
+                <g id="rating" transform="translate(657.000000, 185.000000)">
+                    <path d="M9,13.2091434 L2.81481891,17.5131714 L4.99686671,10.3006969 L-1.00783324,5.74825786 L6.52592756,5.59473143 L9,-1.5228586 L11.4740724,5.59473143 L19.0078332,5.74825786 L13.0031333,10.3006969 L15.1851811,17.5131714 L9,13.2091434 Z" id="Star-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
